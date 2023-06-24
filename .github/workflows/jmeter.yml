@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: run jmeter on github action
-        uses: sebiboga/run-jmeter-github-action
+        uses: sebiboga/run-jmeter-github-action@main
